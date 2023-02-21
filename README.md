@@ -3,7 +3,7 @@
  </h2>
  <p>
     <br>
-    - 🔭 I’m currently working on: <a href="https://github.com/JxChillin/ShoeWebsite" target="_blank">Shoes R Us</a>
+    - 🔭 I’m currently working on: <a href="https://github.com/JxChillin/Shoes-R-Us-V2.git" target="_blank">Shoes R Us V2</a>
     </br>
     <br>
     - 🌱 I’m currently learning: Mobile and Web Development
