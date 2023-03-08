@@ -9,7 +9,7 @@
     - 🌱 I’m currently learning: Mobile and Web Development
     </br>
     <br>
-    - 📝 “<em>A man who stands for nothing will fall for anything.</em>” -Malcolm X
+    - 📝 “<em>A man who stands for nothing will fall for anything</em>” -Malcolm X
     </br>
     <br>
     - ⚡ I enjoy: Snowboarding, American Football, and spending time with Family & Friends
