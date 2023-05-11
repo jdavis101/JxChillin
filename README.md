@@ -3,11 +3,11 @@
  </h2>
  <p>
     <br>
-    - 🔭 I’m currently working on: Learning React/NodeJS and  <a href="https://github.com/JxChillin/snowsite" target="_blank">SnowSite</a> 
+    - 🔭 I’m currently working on: <a href="https://github.com/JxChillin/snowsite" target="_blank">SnowSite</a> 
 <!--     and <a href="https://github.com/JxChillin/Discord-Nickname-Bot" target="_blank">Discord Bot</a>  -->
     </br>
     <br>
-    - 🌱 I’m currently learning: Web Development
+    - 🌱 I’m currently learning: React
     </br>
     <br>
     - 📝 “<em>A man who stands for nothing will fall for anything</em>” -Malcolm X
