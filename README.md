@@ -20,7 +20,7 @@
  <h2>
     Github Stats
  </h2>
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jxchillin&show_icons=true&theme=onedark)
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jxchillin&show_icons=true&count_private=true&theme=dracula"></a>
  <h2>
     Languages
  </h2>
