@@ -20,9 +20,11 @@
  <h2>
     Github Stats
  </h2>
- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jxchillin&show_icons=true&count_private=true&theme=blue-green">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxchillin&layout=compact&theme=blue-green">
- </a>
+ <div>
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jxchillin&show_icons=true&count_private=true&theme=blue-green"></a>&nbsp;
+ <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jxchillin&layout=compact&theme=blue-green"></a>&nbsp;
+ </div>
+     
 <!--  profile views  -->
   <img src="https://komarev.com/ghpvc/?username=jxchillin" />
  <h2>
