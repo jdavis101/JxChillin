@@ -22,17 +22,16 @@
  </h2>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jxchillin&show_icons=true&count_private=true&theme=dracula"></a>
  <h2>
-    Languages
+    Languages & Tools
  </h2>
+<!--  <a href="#"><img src=""></a> -->
  <a href="https://www.w3schools.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-f89820.svg?style=for-the-badge"/> 
  <a href="https://www.w3schools.com/python/" target="_blank"><img src="https://img.shields.io/badge/Python-3776ab.svg?style=for-the-badge&logo=Python&logoColor=white"/> 
 <!--  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/Html-e34f26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  -->
 <!--  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS-1572b6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  -->
  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <a href="https://docs.swift.org/swift-book/" target="_blank"><img src="https://img.shields.io/badge/Swift-f05138.svg?style=for-the-badge&logo=swift&logoColor=white"/> 
- <h2>
-    Software
- </h2>
+
  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5c2d91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> 
  <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-3ddc84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
