@@ -20,26 +20,36 @@
  <h2>
     Github Stats
  </h2>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jxchillin&show_icons=true&count_private=true&theme=dracula"></a>
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jxchillin&show_icons=true&count_private=true&theme=blue-green">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxchillin&layout=compact&theme=blue-green">
+ </a>
+<!--  profile views  -->
+  <img src="https://komarev.com/ghpvc/?username=jxchillin" />
  <h2>
     Languages & Tools
  </h2>
-<!--  <a href="#"><img src=""></a> -->
- <a href="https://www.w3schools.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-f89820.svg?style=for-the-badge"/> 
- <a href="https://www.w3schools.com/python/" target="_blank"><img src="https://img.shields.io/badge/Python-3776ab.svg?style=for-the-badge&logo=Python&logoColor=white"/> 
-<!--  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/Html-e34f26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  -->
-<!--  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS-1572b6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  -->
- <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
- <a href="https://docs.swift.org/swift-book/" target="_blank"><img src="https://img.shields.io/badge/Swift-f05138.svg?style=for-the-badge&logo=swift&logoColor=white"/> 
-
- <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
- <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5c2d91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> 
- <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-3ddc84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
- <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-147efb.svg?style=for-the-badge&logo=xcode&logoColor=white"/>
- <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/Netbeans-1b6ac6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+ <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp; -->
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="60" height="60"/>&nbsp; -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="Xcode" alt="Xcode" width="60" height="60"/>&nbsp;
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="60" height="60"/>&nbsp; -->
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="60" height="60"/>&nbsp; -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="60" height="60"/>&nbsp;
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="60" height="60"/>&nbsp; -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
+ </div>
  <h2>
     Connect with me:  
  </h2>
- <a href="https://linkedin.com/in/jdavis400" target="_blank"><img src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
- <a href="mailto: Jaylend10@gmail.com?"><img src="https://img.shields.io/badge/Gmail-ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin"/>
+ <a href="https://linkedin.com/in/jdavis400" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="60" height="60"/>&nbsp;
    
