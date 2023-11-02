@@ -7,7 +7,7 @@
 <!--     and <a href="https://github.com/JxChillin/Discord-Nickname-Bot" target="_blank">Discord Bot</a>  -->
     </br>
     <br>
-    - 🌱 I’m currently: Learning React
+    - 🌱 I’m currently: Acquiring CompTia Security+ and Learning React  
     </br>
     <br>
     - 📝 “<em>A man who stands for nothing will fall for anything</em>” -Malcolm X
