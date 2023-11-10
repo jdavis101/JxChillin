@@ -3,8 +3,8 @@
  </h2>
  <p>
     <br>
-    - 🔭 I’m currently working on: <a href="https://github.com/JxChillin/snowsite" target="_blank">SnowSite</a> 
-<!--     and <a href="https://github.com/JxChillin/Discord-Nickname-Bot" target="_blank">Discord Bot</a>  -->
+    - 🔭 I’m currently working on: <a href="https://github.com/JxChillin/react-snowsite" target="_blank">SnowSite-NextJS</a> 
+    & <a href="https://github.com/JxChillin/Portfolio-NextJS" target="_blank">Portfolio-NextJS</a> 
     </br>
     <br>
     - 🌱 I’m currently: Acquiring CompTia Security+ and NextJS 
