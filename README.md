@@ -58,4 +58,5 @@
     Connect with me:  
  </h2>
  <a href="https://linkedin.com/in/jdavis400" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="60" height="60"/>&nbsp;
-   
+ <a href="mailto:Jaylend10@gmail.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Gmail" alt="Gmail" width="60" height="60"/>&nbsp;
+ 
