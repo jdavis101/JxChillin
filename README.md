@@ -3,8 +3,8 @@
  </h2>
  <p>
     <br>
-    - 🔭 I’m currently working on: <a href="https://github.com/JxChillin/react-snowsite" target="_blank">SnowSite-NextJS</a> 
-    & <a href="https://github.com/JxChillin/Portfolio-NextJS" target="_blank">Portfolio-NextJS</a> 
+    - 🔭 I’m currently working on: <a href="https://github.com/jdavis101/react-snowsite" target="_blank">SnowSite-NextJS</a> 
+    & <a href="https://github.com/jdavis101/Portfolio-NextJS" target="_blank">Portfolio-NextJS</a> 
     </br>
     <br>
     - 🌱 I’m currently: Acquiring CompTia Security+ and NextJS 
@@ -21,13 +21,13 @@
     Github Stats
  </h2>
  <div>
-<!--  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jxchillin&show_icons=true&count_private=true&theme=blue-green"></a>&nbsp;
- <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jxchillin&layout=compact&theme=blue-green" width="472" ></a>&nbsp; -->
-     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxchillin&theme=radical&layout=compact"></a>&nbsp;
+<!--  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jdavis101&show_icons=true&count_private=true&theme=blue-green"></a>&nbsp;
+ <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jdavis101&layout=compact&theme=blue-green" width="472" ></a>&nbsp; -->
+     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdavis101&theme=radical&layout=compact"></a>&nbsp;
  </div>
      
 <!--  profile views  -->
-<!--   <img src="https://komarev.com/ghpvc/?username=jxchillin" /> -->
+<!--   <img src="https://komarev.com/ghpvc/?username=jdavis101" /> -->
  <h2>
     Tools & Technologies
  </h2>
