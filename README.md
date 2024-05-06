@@ -2,7 +2,7 @@
     Hi, I'm Jaylen Davis 😁
  </h2>
  <p>
-    <br>
+    <!--<br>
     - 🔭 I’m currently working on: <a href="https://github.com/jdavis101/react-snowsite" target="_blank">SnowSite-NextJS</a> 
     & <a href="https://github.com/jdavis101/Portfolio-NextJS" target="_blank">Portfolio-NextJS</a> 
     </br>
@@ -12,7 +12,7 @@
     <br>
     - 📝 “<em>A man who stands for nothing will fall for anything</em>” -Malcolm X
     </br>
-    <br>
+    <br>-->
     - ⚡ I enjoy: Snowboarding, American Football, and spending time with Family & Friends
     </br>
  </p>
